@@ -6,7 +6,6 @@ import numpy as np
 from PIL import Image
 
 # Path to your PDF file
-print("amk")
 
 pdf_path = 'D:\TheoryOfComputation.pdf'  # Replace with the actual path
 
