@@ -1,0 +1,4 @@
+pymupdf
+paddlepaddle
+opencv-python
+paddleocr
